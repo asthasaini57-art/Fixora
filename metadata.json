@@ -1,0 +1,10 @@
+{
+  "name": "Remix Fixora - Anonymous Public Damage & Leadership Accountability",
+  "description": "Report public infrastructure damage anonymously, track municipal leadership resolution times, and hold local officials accountable.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
